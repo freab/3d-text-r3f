@@ -1,1 +1,1 @@
-# 3d-text-r3f
+# 3d text with react three fiber
